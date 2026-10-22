@@ -8,7 +8,7 @@ System Engineer | DevOps | Linux | CI/CD | Shell Scripting | AWS Certified | Jen
 
 | Category        | Tools                                      |
 |-----------------|--------------------------------------------|
-| Cloud           | AWS (EC2, VPC, S3, IAM, ALB, Auto Scaling) |
+| Cloud           | AWS (EC2, VPC, S3, IAM, ALB, Auto Scaling, EKS) |
 | IaC             | Terraform                                  |
 | CI/CD           | Jenkins                                    |
 | Containerization     | Docker, Kubernetes                         |
